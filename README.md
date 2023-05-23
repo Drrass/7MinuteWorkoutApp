@@ -37,6 +37,6 @@ When contributing to this project, please ensure that your code adheres to the e
 This app is licensed under the MIT License. Feel free to use, modify, and distribute the code for personal or commercial purposes.
 
 # Contact
-If you have any questions, suggestions, or feedback, please feel free to reach out to us at [email protected]
+If you have any questions, suggestions, or feedback, please feel free to reach out to us at mehrahimanshu780@gmail.com
 
 We hope you enjoy using the 7-Minute Workout app and that it helps you achieve your fitness goals. Stay active and stay healthy!
